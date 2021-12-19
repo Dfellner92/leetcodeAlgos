@@ -8,3 +8,4 @@ var restoreString = function (s, indices) {
     .map((node) => node[0])
     .join("");
 };
+
